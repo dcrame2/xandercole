@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Zen+Dots&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Quattrocento+Sans&display=swap");
 
 * {
   margin: 0;
@@ -6,5 +6,5 @@
 }
 
 body {
-  font-family: "Zen Dots", cursive;
+  font-family: "Oswald", sans-serif;
 }

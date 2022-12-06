@@ -6,7 +6,7 @@ import styled from "styled-components";
 const Section = styled.section`
   width: 100vw;
   height: 100vh;
-  background-color: red;
+  background-color: #00008b;
 `;
 
 const Container = styled.div`
@@ -21,7 +21,7 @@ const Container = styled.div`
 const Title = styled.h1`
   font-size: 5rem;
   color: #fff;
-  font-family: "Zen Dots", cursive;
+  font-family: "Quattrocento Sans", sans-serif;
   letter-spacing: 2px;
   text-align: center;
 
@@ -31,7 +31,7 @@ const Title = styled.h1`
 `;
 
 const TitleEyebrow = styled.p`
-  font-family: "Zen Dots", cursive;
+  font-family: "Oswald", sans-serif;
   letter-spacing: 2px;
   font-size: 1.7rem;
   color: #fff;
@@ -45,7 +45,7 @@ const TitleEyebrow = styled.p`
 const Quote = styled.h3`
   font-size: 2rem;
   color: #fff;
-  font-family: "Zen Dots", cursive;
+  font-family: "Oswald", sans-serif;
   text-align: center;
 
   @media (max-width: 767px) {
@@ -57,7 +57,7 @@ const Quote = styled.h3`
 `;
 
 const Img = styled.img`
-  width: 150px;
+  width: 180px;
   height: 150px;
 `;
 
@@ -71,16 +71,16 @@ const Head = () => {
         <Img
           data-aos="fade-down"
           data-aos-duration="3000"
-          src="spiderman.png"
+          src="firetruck.png"
         />
         <TitleEyebrow data-aos="fade-right" data-aos-duration="1000">
           The Life of
         </TitleEyebrow>
         <Title data-aos="fade-right" data-aos-duration="1500">
-          Thomas Tristan
+          Xander Cole
         </Title>
         <Quote data-aos="fade-right" data-aos-duration="2000">
-          "You are the greatest gift, don't let anyone tell you differently"
+          "Even though you're growing up, you should never stop having fun."
         </Quote>
       </Container>
     </Section>

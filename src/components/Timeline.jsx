@@ -15,7 +15,7 @@ const Container = styled.div`
 const Title = styled.h2`
   font-size: 2.5rem;
   margin-bottom: 20px;
-  color: red;
+  color: #00008b;
 
   @media (max-width: 767px) {
     font-size: 1.5rem;

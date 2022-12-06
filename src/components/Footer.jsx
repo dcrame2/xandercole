@@ -12,7 +12,7 @@ const Container = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-family: "Zen Dots", cursive;
+
   gap: 10px;
   color: #fff;
 
