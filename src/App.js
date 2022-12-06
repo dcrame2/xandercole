@@ -9,7 +9,7 @@ function App() {
     <>
       <Head />
       <Timeline
-        title="April 18th, 2019: Born"
+        title="February 24th, 2021: Born"
         img1="/0/photo1.jpeg"
         img2="/0/photo2.jpeg"
         img3="/0/photo3.jpeg"
@@ -19,7 +19,7 @@ function App() {
       />
 
       <Timeline
-        title="2020: Age 1"
+        title="2022: Age 1"
         img1="/1/photo1.jpeg"
         img2="/1/photo2.jpeg"
         img3="/1/photo3.jpeg"
@@ -27,24 +27,7 @@ function App() {
         bgColor="#fff"
         color="pink"
       />
-      <Timeline
-        title="2021: Age 2"
-        img2="/2/photo1.jpeg"
-        img1="/2/photo2.jpeg"
-        img4="/2/photo3.jpeg"
-        img3="/2/photo4.jpeg"
-        bgColor="#pink"
-        color="#fff"
-      />
-      <Timeline
-        title="2022: Age 3"
-        img1="/3/photo1.jpeg"
-        img2="/3/photo2.jpeg"
-        img3="/3/photo3.jpeg"
-        img4="/3/photo4.jpeg"
-        bgColor="#fff"
-        color="pink"
-      />
+
       <Footer />
     </>
   );
