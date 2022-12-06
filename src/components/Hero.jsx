@@ -26,7 +26,7 @@ const Title = styled.h1`
   text-align: center;
 
   @media (max-width: 767px) {
-    font-size: 1.6rem;
+    font-size: 2rem;
   }
 `;
 
@@ -38,7 +38,7 @@ const TitleEyebrow = styled.p`
   text-align: center;
 
   @media (max-width: 767px) {
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 `;
 
@@ -49,7 +49,7 @@ const Quote = styled.h3`
   text-align: center;
 
   @media (max-width: 767px) {
-    font-size: 0.9rem;
+    font-size: 1rem;
     margin: 0 20px;
 
     letter-spacing: 1.3px;
